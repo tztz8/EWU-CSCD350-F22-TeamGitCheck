@@ -6,3 +6,5 @@ This is a repo for check if git works for my team 11
 My name is Timbre Freeman, my username is tztz8 (discord is `tztz8#1850`), my ewu email is <tfreeman3@ewu.edu>
 
 My name is Tristen Greene, my username is TG (discord is `TG#6308`), my ewu email is <tgreene9@ewu.edu>
+
+My name is Annika Stachowiak, my username is AnnikaStachowiak (discord is `JediWaffles#6651`), my ewu email is <astachowiak@ewu.edu>
